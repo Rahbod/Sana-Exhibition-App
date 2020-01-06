@@ -1,0 +1,36 @@
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.exe.config
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.exe
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.pdb
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.csprojResolveAssemblyReference.cache
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus_Test.Form1.resources
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus_Test.Properties.Resources.resources
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.csproj.GenerateResource.Cache
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.exe
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.pdb
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.dll
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.SqlServer.dll
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.dll
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.EF6.dll
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.Linq.dll
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.xml
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.SqlServer.xml
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.xml
+G:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.exe.licenses
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.exe.config
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.exe
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\Janus Test.pdb
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.dll
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.SqlServer.dll
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.dll
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.EF6.dll
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.Linq.dll
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.xml
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\EntityFramework.SqlServer.xml
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\bin\Debug\System.Data.SQLite.xml
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus_Test.Form1.resources
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus_Test.Properties.Resources.resources
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.csproj.GenerateResource.Cache
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.exe.licenses
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.exe
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.pdb
+D:\mobasheri\visualstudio\Projects\SanaWindowsApplication\Janus Test\Janus Test\obj\Debug\Janus Test.csprojResolveAssemblyReference.cache
