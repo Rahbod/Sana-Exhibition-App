@@ -43,6 +43,7 @@
             this.gridEX1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gridEX1.DynamicFiltering = true;
             this.gridEX1.FilterMode = Janus.Windows.GridEX.FilterMode.Automatic;
+            this.gridEX1.FilterRowButtonStyle = Janus.Windows.GridEX.FilterRowButtonStyle.ConditionOperatorDropDown;
             this.gridEX1.FilterRowUpdateMode = Janus.Windows.GridEX.FilterRowUpdateMode.WhenValueChanges;
             this.gridEX1.FocusStyle = Janus.Windows.GridEX.FocusStyle.Solid;
             this.gridEX1.GridLineStyle = Janus.Windows.GridEX.GridLineStyle.Solid;
